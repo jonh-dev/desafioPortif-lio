@@ -12,8 +12,8 @@
 ### Projeto
 
 <h1 align="center">
-  
-  <video src="./github/portfolio.mp4" target="_blank">
+
+https://user-images.githubusercontent.com/101439670/180692657-8d06ffe2-0b6d-465a-8975-614e7fedb3bc.mp4
  
 </h1>
 
